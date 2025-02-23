@@ -1,5 +1,5 @@
 # UnlockEdgePolicies - pretend to be in MDM
-This is a simple script to allow users configuring policies for Microsoft Edge locked to MDM environments. You may now set a default search engine & change the new tab page and more!
+This is a simple script to allow users to configure policies for Microsoft Edge locked to MDM environments. You may now set a default search engine & change the new tab page and more!
 
 ![image](https://github.com/user-attachments/assets/1d2d7f9d-08a4-4b38-83d2-8360d4896762)
 
